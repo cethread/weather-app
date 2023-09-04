@@ -1,5 +1,5 @@
 import { useEffect, useState, useRef } from "react"
-import "./styles.css"
+import "../src/css_scss/styles.css"
 
 function App() {
   // const url =
